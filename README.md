@@ -5,6 +5,8 @@
 ![We are on Discord](https://img.shields.io/badge/We%20Are%20On%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Contributions welcome](https://img.shields.io/badge/Contributions%20Welcome-f19cf7?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIyLjg4IDEwNy40MSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTIyLjg4IDEwNy40MSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO308L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02MC44MywxNy4xOUM2OC44NCw4Ljg0LDc0LjQ1LDEuNjIsODYuNzksMC4yMWMyMy4xNy0yLjY2LDQ0LjQ4LDIxLjA2LDMyLjc4LDQ0LjQxIGMtMy4zMyw2LjY1LTEwLjExLDE0LjU2LTE3LjYxLDIyLjMyYy04LjIzLDguNTItMTcuMzQsMTYuODctMjMuNzIsMjMuMmwtMTcuNCwxNy4yNkw0Ni40Niw5My41NkMyOS4xNiw3Ni45LDAuOTUsNTUuOTMsMC4wMiwyOS45NSBDLTAuNjMsMTEuNzUsMTMuNzMsMC4wOSwzMC4yNSwwLjNDNDUuMDEsMC41LDUxLjIyLDcuODQsNjAuODMsMTcuMTlMNjAuODMsMTcuMTlMNjAuODMsMTcuMTl6Ii8+PC9nPjwvc3ZnPg==)
 
+<img src="https://inspirezone.tech/wp-content/uploads/2021/10/Accepting-Contributions-for-Hacktoberfest-2021.png" width="300">
+
 <a href="https://inspirezone.tech" target="_blank"> <img src="https://inspirezone.tech/wp-content/uploads/2021/04/calculator-challenge-banner.png" alt="inspirezone calculator challenge banner" style="width:1200px;"/> </a>
 
 **This Repo is part of the inspirezone Dev Community Coding Challenges. Please read challenge details below.  
