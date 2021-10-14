@@ -1,0 +1,10 @@
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Miscellaneous\Hacktoberfest\Calculator-Challenge-Inspirezone\Calculator\Calculator\obj\Debug\Calculator.pdb
