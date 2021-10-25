@@ -11,7 +11,7 @@ Werkzeug==0.11.11
 Change to app directory, use `virtualenv` create and activate virtual enviroment.  
 Then use `pip` to install requirements：  
 ```
-pip install flask
+pip install -r requirements.txt
 ```
 Run:  
 ```
