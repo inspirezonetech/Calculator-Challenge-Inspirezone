@@ -1,5 +1,5 @@
 # Calculator App by Aravind
-A simple calculator made with Flask and JavaScript.
+A simple calculator made with Flask and jQuery.
 
 
 ## Versions
